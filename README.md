@@ -9,4 +9,3 @@
     <li>George Orwell:1984</li>,
     <li>Sabahattin Ali:Kürk Mantolu Madonna</li>
 </ul>
-<!-- Yazan kişi hakkında bilgiler son -->
