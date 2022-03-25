@@ -1,6 +1,3 @@
-# ilk-web-sayfasi-olusturmak
-ilk web sayfası oluşturuyoruz
-
 <!-- Yazan kişinin ad ve soyadı başlangıç -->
 <h1>Osman KOYUNCU</h1>
 <!-- Yazan kişinin ad ve soyadı son -->
