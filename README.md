@@ -6,6 +6,6 @@
 <p>Merhaba, ben Osman KOYUNCU. Ankara'da yaşıyorum. Kitap okumayı ve doğa yürüşü yapmayı seviyorum. Web geliştirme ile ilgileniyorum. </p>
 <h3>Sevdiğimi kitaplar</h3>
 <ul>
-    <li>George Orwell:1984</li>,
+    <li>George Orwell:1984</li>
     <li>Sabahattin Ali:Kürk Mantolu Madonna</li>
 </ul>
