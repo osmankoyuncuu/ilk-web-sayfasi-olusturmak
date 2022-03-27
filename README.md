@@ -48,7 +48,6 @@
     </li>
 </ol>
 </div>
-
 <!-- İlgi alanları son -->
 <!-- Dizi tanıtımı başlangıç -->
 <h3>Sevdiğim Dizi Tanıtımı</h3>
