@@ -35,7 +35,6 @@
                 <a href="https://www.imdb.com/title/tt0944947/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=12230b0e-0e00-43ed-9e59-8d5353703cce&pf_rd_r=XRNA0GWRH4A6EZSQM83P&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=toptv&ref_=chttvtp_tt_13" target="_blank">Game of Thrones</a>
             </li>
         </ul>
-
     </li>
     <li>Kitap
         <ul>
